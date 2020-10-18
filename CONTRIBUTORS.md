@@ -266,3 +266,9 @@
  - Place: Cupertino,CA,USA
  - Bio: Student
  - Github: [jamestacos](https://github.com/jamestacos)
+
+   #### Name: [Luana N. Bueno](https://github.com/luanaboune)
+ - Place: São Paulo, SP, Brazil
+ - Bio: Student
+ - Github: [LuanaBoune](https://github.com/luanaboune)
+
